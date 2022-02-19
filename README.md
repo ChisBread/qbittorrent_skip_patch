@@ -24,7 +24,7 @@ docker run -d \
 
 ## 构建快检版qbittorrent-nox
 ```bash
-qbitorrent_github_tag=release-4.3.9 libtorrent_github_tag=LPE_v0.4 bash qbittorrent-nox-static.sh libtorrent
+qbitorrent_github_tag=release-4.3.9 libtorrent_github_tag=LPE_v0.4 bash qbittorrent-nox-static.sh qbittorrent
 ```
 ## TODO
 1. 群晖、威联通套件
