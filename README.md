@@ -20,7 +20,9 @@ docker run -d \
   --restart unless-stopped \
   chisbread/qbittorrent:latest
 ```
-- 替换qbittorrent-nox文件
+
+- 其它安装方式(群晖,威联通套件等)
+    - 找到并替换qbittorrent-nox文件
 
 ## 构建快检版qbittorrent-nox
 ```bash
